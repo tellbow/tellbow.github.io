@@ -27,7 +27,7 @@ github_username: tellbow
 
 # Build settings
 markdown: kramdown
-theme: beautiful-jekyll-theme
+remote_theme: daattali/beautiful-jekyll@5.0.0
 plugins:
   - jekyll-feed
 
