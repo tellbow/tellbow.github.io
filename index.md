@@ -8,5 +8,4 @@ title: Tellbow
 
 # Projects
 
-- [Schwingen](https://schwingen-production.up.railway.app/)
-
+- [Schwingen](https://schwingen.tellbow.ch/)
